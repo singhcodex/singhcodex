@@ -1,5 +1,5 @@
-#Simernjeet Singh
-<h3 align="center">FullStack Developer with vast Experience in Angular with learning curve in React, Nextjs and TailwindCss.</h3>
+# Simernjeet Singh
+**FullStack Developer with vast Experience in Angular with learning curve in React, Nextjs and TailwindCss**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singhcodex&label=Profile%20views&color=0e75b6&style=flat" alt="singhcodex" /> </p>
 
